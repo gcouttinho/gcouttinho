@@ -1,16 +1,40 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=4500&pause=800&color=FFB000&center=true&vCenter=true&width=700&lines=Seja+bem+vindo+ao+meu+perfil+!!!;Me+chamo+Guilherme+Coutinho;Sou+estudante+de+programa%C3%A7%C3%A3o;E+futuro+desenvolvedor)](https://git.io/typing-svg)
 
-<!--
-**gcouttinho/gcouttinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/gcouttinho">
+    <img height="230" src="https://github-readme-stats.vercel.app/api?username=gcouttinho&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="230" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gcouttinho&theme=dark&line_height=30&hide=java,html"/>
+  </a>
+</div>
+  
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Ferramentas:
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  </br>
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+  ##
+
+<div>
+  <a href="https://www.linkedin.com/in/guilherme-coutinho-989a0323a" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:holandagui31@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/guicouttinho_/" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/GCoutinho777" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+   
+</div>
