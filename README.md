@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/gcouttinho">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=gcouttinho&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gcouttinho&theme=dark&line_height=30&hide=java,html"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gcouttinho&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2874A6&text_color=2874A6&bg_color=0d1117" alt="Caroline Barbosa github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcouttinho&layout=compact&hide_border=true&title_color=ffffff&text_color=2874A6&bg_color=0d1117" />
   </a>
 </div>
   
