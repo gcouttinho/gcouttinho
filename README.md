@@ -8,7 +8,7 @@
 
 ***
   
-<details align="left">
+<details open align="left">
   <summary font-size="60px">
     <h1 font-size="10px">
       <strong>
@@ -56,20 +56,51 @@
    
 
 ***
-<details align="left">
+<details open align="left">
   <summary font-size="60px">
     <h1 font-size="10px">
       <strong>
-        📊 &nbsp; Stats:
+        📊 &nbsp; Github Stats and Activity:
       </strong>
     </h1>
   </summary>
- <div width=30px>
+
+ <h2>🔥 Streak Stats</h2>
+
+ <div align="center">
    
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥Streak stats gcouttinhos" alt="gcouttinho's streak" src="https://streak-stats.demolab.com/?user=gcouttinho&hide_border=true&theme=slateorange"/>
+    </a>
+  </p>
+</div>
+  
+ <div>
+   
+  <h2>💻 GitHub Profile Stats</h2>
+  
   <a href="https://github.com/gcouttinho">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gcouttinho&show_icons=true&count_private=true&hide_border=true&theme=slateorange" alt="Caroline Barbosa github stats" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gcouttinho&show_icons=true&count_private=true&hide_border=true&theme=slateorange" alt="gcouttinho github stats" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcouttinho&layout=compact&hide_border=true&theme=slateorange" />
   </a>
+  
+  <h2>📈 My Contribution Graph</h2>
+  
+  <a href="https://github.com/gcouttinho">
+    <img alt="gcouttinho Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gcouttinho&bg_color=36393f&color=f9a527&line=f9a527&point=FFFFFF&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+<br>
+  <p align="centre"><b>View Counter</b>
+  </p>  
+<p align="center">
+  <img align="center" width="500px" src="https://profile-counter.glitch.me/{gcouttinho}/count.svg" />
+</p> 
+<br>
+</div>
   
 </details>
 
@@ -89,4 +120,10 @@
   <a href="https://twitter.com/GCoutinho777" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  <br>
+    <a href="https://github.com/gcouttinho?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gcouttinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/gcouttinho?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gcouttinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
 
