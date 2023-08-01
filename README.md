@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?                          font=Fira+Code&weight=1500&size=50&duration=4000&pause=400&color=FFC61A&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=850&height=100&lines=Welcome+to+my+profile!;I+hope+you+like+my+projects!!!" alt="Typing SVG" />
+  <a href="https://gcouttinho.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=verdana&weight=900&size=25&duration=3000&pause=500&color=FFC61A&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=580&lines=Welcome+to+my+GitHub+profile!;Follow+me+to+keep+track+of+my+performance!" alt="Typing SVG" />
   </a>
 </div> 
 
