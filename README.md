@@ -67,17 +67,6 @@
       </strong>
     </h1>
   </summary>
-
- <h2>🔥 Streak Stats</h2>
-
- <div align="center">
-   
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥Streak stats gcouttinhos" alt="gcouttinho's streak" src="https://streak-stats.demolab.com/?user=gcouttinho&hide_border=true&theme=slateorange"/>
-    </a>
-  </p>
-</div>
   
  <div>
    
