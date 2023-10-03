@@ -32,7 +32,9 @@
    ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=fff99980)&nbsp;
    ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
    ![Bootsrap](https://img.shields.io/badge/-bootsrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+   ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
    <br>
+   ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
    ![PowerShell](https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&labelColor=0D1117)&nbsp;
