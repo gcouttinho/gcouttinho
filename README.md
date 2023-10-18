@@ -24,6 +24,8 @@
   
    ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
    ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+   ![React-Native](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
   <h2>
      Other tools:
@@ -43,9 +45,6 @@
      Studying:
   </h2>
   
-   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-   ![React-Native](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-   <br>
    ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
    ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 
